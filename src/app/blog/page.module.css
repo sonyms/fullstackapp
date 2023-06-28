@@ -1,0 +1,37 @@
+
+.container {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 50px;
+  }
+
+  .mainContainer{
+
+  }
+  
+  .image{
+    object-fit: cover;
+  }
+  
+  .content {
+  }
+  
+  .title{
+    margin-bottom: 10px;
+  }
+
+   
+  .user{
+    margin-bottom: 10px;
+    font-size: 12px;
+  }
+  
+  .userContainer{
+    display: flex;
+    font-size: 12px;
+  }
+  .desc{
+    font-size: 18px;
+    color: #999;
+  }
